@@ -1,4 +1,4 @@
-#2d_figure_moving
+# 2D figure moving
 
 System requirements: .NET Framework 4.5 or higher.
 
